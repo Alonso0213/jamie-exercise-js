@@ -1,0 +1,19 @@
+:root{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+img{
+    width: 12rem;
+}
+table{
+    border: solid;
+}
+td{
+    border: 0.2rem solid black;
+}
+button{
+    border: solid;
+  
+}
